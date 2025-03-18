@@ -26,8 +26,8 @@ This is a improved version of the Free-Games-V2 and not offical I'm not the orig
 - In a terminal or command prompt run this command to install the required dependencies:
   - pip install opencv-python python-dotenv pyautogui Pillow numpy os
   - (If that doesn't work, try `pip3` instead of `pip`)
-- Open setup-env.py
-- Input your epic games path,e-mail,password (e-mail,password not neccesery but recommended)
+ - Open setup-env.py
+ - Input your epic games path, e-mail, password     (e-mail,password not neccesery but recommended)
   - For Windows: Open a command prompt, navigate to the folder housing the `Free_Games_V3.py` file and run it with `.\Free_Games_V3.py`. You can also just open the folder in the File Explorer and double-click on it
   - For Mac: Open a terminal, navigate to the folder housing the `Free_Games_V3.py` file, and run it with `python3 ./Free_Games_V3.py`.
 
