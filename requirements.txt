@@ -1,6 +1,0 @@
-opencv-python
-python-dotenv
-pyautogui
-Pillow
-numpy
-os
