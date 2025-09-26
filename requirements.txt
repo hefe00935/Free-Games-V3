@@ -1,0 +1,6 @@
+opencv-python
+python-dotenv
+pyautogui
+Pillow
+numpy
+pyinstaller
